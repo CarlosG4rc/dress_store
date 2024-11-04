@@ -61,6 +61,7 @@ Para iniciar la aplicación, ejecuta:
 
 ## Estructura del proyecto
 
+```plaintext
 tienda_ropa/
 │
 ├── src/
@@ -76,7 +77,7 @@ tienda_ropa/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Contribuir
 
