@@ -30,8 +30,10 @@ git clone https://github.com/CarlosG4rc/dress_store.git
 3. (Opcional) Crea y activa un entorno virtual:
 ```
 python -m venv venv
-source venv/bin/activate # En Windows usa venv\Scripts\activate
-``` 
+source venv/bin/activate 
+# En Windows usa 
+venv\Scripts\activate
+```
 4. Instala las dependencias:
  ```
  pip install -r requirements.txt
