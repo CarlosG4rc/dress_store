@@ -25,7 +25,7 @@ git clone https://github.com/CarlosG4rc/dress_store.git
 
 2. Navega al directorio del proyecto:
  ```
- cd gestion-tienda-ropa
+ cd dress_store
  ```
 3. (Opcional) Crea y activa un entorno virtual:
 ```
