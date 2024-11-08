@@ -19,30 +19,6 @@ Este proyecto es una aplicación de escritorio para la gestión de inventario de
 ## Instalación
 
 1. Clona este repositorio:
-   
-Por supuesto, estaré encantado de ayudarte a crear un README para tu proyecto de gestión de tienda de ropa en GitHub. Un buen README proporciona una visión general del proyecto, instrucciones de instalación y uso, y otra información relevante. Aquí tienes un ejemplo que puedes adaptar según tus necesidades:
-
-# Gestión de Tienda de Ropa
-
-Este proyecto es una aplicación de escritorio para la gestión de inventario de una tienda de ropa, desarrollada en Python utilizando Tkinter para la interfaz gráfica y SQLite para el almacenamiento de datos.
-
-## Características
-
-- Añadir nuevos productos al inventario
-- Visualizar lista de productos
-- Buscar productos por nombre
-- Editar información de productos existentes
-- Eliminar productos del inventario
-
-## Requisitos previos
-
-- Python 3.7 o superior
-- Tkinter (generalmente viene pre-instalado con Python)
-- SQLite3
-
-## Instalación
-
-1. Clona este repositorio:
   `git clone https://github.com/CarlosG4rc/dress_store.git`
 
 2. Navega al directorio del proyecto:
