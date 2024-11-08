@@ -45,14 +45,14 @@ Este proyecto es una aplicación de escritorio para la gestión de inventario de
 1. Clona este repositorio:
   `git clone https://github.com/CarlosG4rc/dress_store.git`
 
-3. Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
    `cd gestion-tienda-ropa`
-5. (Opcional) Crea y activa un entorno virtual:
+3. (Opcional) Crea y activa un entorno virtual:
   ```
 python -m venv venv
 source venv/bin/activate # En Windows usa venv\Scripts\activate
 ``` 
-7. Instala las dependencias:
+4. Instala las dependencias:
    `pip install -r requirements.txt`
    
 ## Uso
