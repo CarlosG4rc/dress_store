@@ -43,7 +43,7 @@ Este proyecto es una aplicación de escritorio para la gestión de inventario de
 ## Instalación
 
 1. Clona este repositorio:
-  ``` git clone https://github.com/tu-usuario/gestion-tienda-ropa.git ```
+  ` git clone https://github.com/tu-usuario/gestion-tienda-ropa.git `
 
 3. Navega al directorio del proyecto:
    ```cd gestion-tienda-ropa```
